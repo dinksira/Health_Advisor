@@ -97,11 +97,3 @@ Feel free to open **Issues** for bugs or suggestions, and **Pull Requests** for 
 
 ---
 
-## 👨‍💻 Author
-
-**Dinksira Elsa**
-UI/UX Designer | Developer
-[https://dinksiraelsa.vercel.app]
-
----
-
